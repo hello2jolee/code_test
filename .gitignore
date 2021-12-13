@@ -92,3 +92,6 @@ node_modules
 .logs/
 
 .env*.local
+
+# ipynb_checkpoints
+.ipynb_checkpoints
